@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClientAppV1/ClientAppV1.csproj" />
+  <Project Path="ClientAppV2/ClientAppV2.csproj" />
+  <Project Path="SalaryLibraryV1/SalaryLibraryV1.csproj" />
+  <Project Path="SalaryLibraryV2/SalaryLibraryV2.csproj" />
+</Solution>
